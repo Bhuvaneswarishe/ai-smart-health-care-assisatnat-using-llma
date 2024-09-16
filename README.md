@@ -23,3 +23,9 @@ Technology Stack
         PyPDF2 for document parsing.
         Pandas for data handling.
 
+Demo links Demo link  of  medical report insights : https://drive.google.com/file/d/1vAmC8aRbyTjfceP0D8nPCM9K8hlGEPZQ/view?usp=sharing
+
+Demo link of  personlized recommendation:
+https://drive.google.com/file/d/1p0i94AIRVDPeMhnGWsNl8dYdTSbb23aT/view?usp=sharing
+
+
